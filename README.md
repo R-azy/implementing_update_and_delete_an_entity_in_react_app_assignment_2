@@ -1,3 +1,14 @@
+
+
+
+
+
+
+
+
+
+
+
 # Lab Exercise: Create a React App that Renders a List with a Delete Button 📝🗑️
 
 ## Objectives 🎯
